@@ -27,10 +27,26 @@ Software Dependencies:
   sudo -H pip install xlib
   sudo -H pip install xlib>=0.17
   sudo -H pip install pynput
+  pip install opencv-contrib-python
 ```
 2. System Arrangement
 
 Keep the camera faced to the projector and keep it fixed. 
 
 ![alt text](https://github.com/huzz/Touch-Projectors/blob/master/system_arrangement.png)
+
+3. Run the code :
+ ```bash
+ python source.py
+ ```
+ Then select four points in the following order for the region of interest : top-left, top-right, bottom-left, bottom-right
   
+4. Result:
+
+
+![alt text](https://github.com/huzz/Touch-Projectors/blob/master/result.png)
+
+#### LED pen schematic: ####
+
+![alt text](https://github.com/huzz/Touch-Projectors/blob/master/pen_schematic.png)
+
