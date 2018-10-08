@@ -123,9 +123,9 @@ while True:
 	
 	if check == True :
 		#print('h')
-		mouse.position = (int(k), int(c))
-		#mouse.press(Button.left)
-		#mouse.release(Button.left)
+		#mouse.position = (int(k), int(c))
+		mouse.press(Button.left)
+		mouse.release(Button.left)
         
 	else:
            mouse.release(Button.left)
