@@ -20,7 +20,7 @@ Software Dependencies:
 1. Install the dependencies (Ubuntu or MacOS is preffered)
 
 ```bash
-  sudo apt-get instal python-dev python-pip python-wheel
+  sudo apt-get install python-dev python-pip python-wheel
   pip install numpy
   pip install pyautogui
   sudo -H python -m pip install --upgrade pip setuptools wheel 
