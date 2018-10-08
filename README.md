@@ -1,7 +1,7 @@
 # Touch-Projectors
 This is demo code written in Python that can make any surface into an interactive touch pad.
 
-This software will allow you to select four points on any surface and those points can act as a touch surface for your laptop. Typ
+This software will allow you to select four points on any surface and those points can act as a touch surface for your laptop. The interactive projector converts the traditional projectors into a interactive touchscreen for the the end user. It presents an innovative approach. The projector projects the computer’s desktop on a surface and the user can interact with the surface by using machine learning and image processing algorithms. This thus eliminates the need of the end user to interact with the computer while working with presentations.
 
 Hardware dependencies :
 
