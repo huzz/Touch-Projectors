@@ -14,3 +14,23 @@ Software Dependencies:
 - pyautogui
 - pynput
 - OpenCV
+
+#### How to run the code : ####
+
+1. Install the dependencies (Ubuntu or MacOS is preffered)
+
+```bash
+  sudo apt-get instal python-dev python-pip python-wheel
+  pip install numpy
+  pip install pyautogui
+  sudo -H python -m pip install --upgrade pip setuptools wheel 
+  sudo -H pip install xlib
+  sudo -H pip install xlib>=0.17
+  sudo -H pip install pynput
+```
+2. System Arrangement
+
+Keep the camera faced to the projector and keep it fixed. 
+
+![alt text](https://github.com/huzz/system_arrangement.png)
+  
