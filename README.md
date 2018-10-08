@@ -32,5 +32,5 @@ Software Dependencies:
 
 Keep the camera faced to the projector and keep it fixed. 
 
-![alt text](https://github.com/huzz/system_arrangement.png)
+![alt text](https://github.com/huzz/Touch-Projectors/system_arrangement.png)
   
